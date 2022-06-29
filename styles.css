@@ -1,0 +1,35 @@
+.central {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.bg-color {
+    background-color: #1068A9;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #1068A9;
+}
+
+.bg-color-2 {
+   background-color:  #2b3c54;
+}
+
+.bg-color-3{
+    background: #eb6f31;
+}
+
+.title {
+    text-transform: uppercase;
+    font-family: 'Kanit', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.alturaFull{
+    height: 100vh;
+}
+
+.hDiv{
+    min-height: 180px;
+}
